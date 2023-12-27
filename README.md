@@ -1,7 +1,7 @@
 # Hi my name is Ansar Amankos
 
 
-> **I am passionate frontend developer from Kazakhstan**
+> **I am passionate frontend developer from Kazakhstan✋**
 
 
 #### Skills
