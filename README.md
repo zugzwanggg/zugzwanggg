@@ -13,6 +13,7 @@
 <img align='left' width='60rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align='left' width='60rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align='left' width='60rem' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align='left' width='60rem' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" />
 <img width='60rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
 #### Connect with me
