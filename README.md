@@ -11,7 +11,6 @@
 <img align='left' width='60rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align='left' width='60rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align='left' width='60rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align='left' width='60rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align='left' width='60rem' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align='left' width='60rem' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" />
 <img align='left' width='60rem' src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
